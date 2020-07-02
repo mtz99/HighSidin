@@ -1,4 +1,4 @@
 # HighSidin
-My team's game at Gameheads (Jun 2019-Jan 2020)
+My first game at Gameheads (Jun 2019-Jan 2020)
 
 Game page: https://gameheads.itch.io/highsidin
